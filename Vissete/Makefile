@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := build
 vrsn=0.0.1
-bld=0
+bld=1
 
 build:
 	@echo "[make] Setting version and build numbers in Version.java and pom.xml"

@@ -42,7 +42,7 @@
     <dependency>
       <groupId>com.sparkjava</groupId>
       <artifactId>spark-core</artifactId>
-      <version>2.5.5</version>
+      <version>2.7.2</version>
     </dependency>
   </dependencies>
 
@@ -55,7 +55,7 @@
         <configuration>
           <archive>
             <manifestEntries>
-              <Vissete-Build>23</Vissete-Build>
+              <Vissete-Build>1</Vissete-Build>
               <Vissete-Version>0.0.1</Vissete-Version>
             </manifestEntries>
           </archive>
